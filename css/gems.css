@@ -18,26 +18,26 @@
 
 
 
-#sand */{
-  position: absolute;
-  z-index: 5;
-  top: 315px;
-  left: 275px;
-}
+/*#sand */{*/
+/*  position: absolute;*/
+/*  z-index: 5;*/
+/*  top: 315px;*/
+/*  left: 275px;*/
+/*}*/
 
 /* Select the image with the class "yellow_diamond" */
 
-.yellow_diamond */ {
-  position: absolute;
-  z-index: 4;
-  top: 325px;
-  left: 200px;
-}
+/*.yellow_diamond */ {*/
+/*  position: absolute;*/
+/*  z-index: 4;*/
+/*  top: 325px;*/
+/*  left: 200px;*/
+/*}*/
 
-#diamond */
- */ {
-  position: absolute;
-  z-index: 3;
-  top: 300px;
-  left: 223px;
-}
+/*#diamond */*/
+/* */ {*/
+/*  position: absolute;*/
+/*  z-index: 3;*/
+/*  top: 300px;*/
+/*  left: 223px;*/
+/*}*/
